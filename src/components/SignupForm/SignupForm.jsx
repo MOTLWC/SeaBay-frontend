@@ -62,10 +62,10 @@ const SignupForm = (props) => {
                 <input id="emailInput" type="text" value={email} name="email" onChange={handleChange}></input>
                 </div><div>
                 <label htmlFor="passwordInput">Password</label>
-                <input id="passwordInput" type="text" value={password} name="password" onChange={handleChange}></input>
+                <input id="passwordInput" type="password" value={password} name="password" onChange={handleChange}></input>
                 </div><div>
                 <label htmlFor="passwordVerifyInput">Re-Type Password</label>
-                <input id="passwordVerifyInput" type="text" value={verifyPassword} name="verifyPassword" onChange={handleChange}></input>
+                <input id="passwordVerifyInput" type="password" value={verifyPassword} name="verifyPassword" onChange={handleChange}></input>
                 </div>
                 <button disabled={checkValidInput()}>Create Account</button>
             </form>
