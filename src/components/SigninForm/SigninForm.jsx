@@ -57,7 +57,7 @@ const SigninForm = (props) => {
                 <input id="usernameInput" type="text" value={username} name="username" onChange={handleChange}></input>
                 </div><div>
                 <label htmlFor="passwordInput">Password</label>
-                <input id="passwordInput" type="text" value={password} name="password" onChange={handleChange}></input>
+                <input id="passwordInput" type="password" value={password} name="password" onChange={handleChange}></input>
                 </div>
                 <button disabled={checkValidInput()}>Sign In</button>
             </form>
