@@ -8,7 +8,7 @@ SeaBay was conceived out of a shared passion for boating between the collaborato
 
 ## Getting Started
 
-You can access the deployed application [here](https://seabayfront.netlify.app/ "‌").
+You can access the deployed application [here](https://seabay-front.netlify.app/).
 
 ### Planning Materials
 
@@ -16,7 +16,7 @@ For detailed planning and attribution, you can visit our [Trello Board](https://
 
 ### Back-End Repository
 
-The back-end source code is available [here](https://github.com/andyheggs/SeaBay-backend "‌").
+The back-end source code is available [here](https://github.com/MOTLWC/SeaBay-backend).
 
 ## Attributions
 
